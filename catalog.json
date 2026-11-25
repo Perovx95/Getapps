@@ -1,24 +1,6 @@
 {
   "apps": [
     {
-      "name": "CarRacer",
-      "package": "com.perovx.carracer",
-      "versionCode": 1,
-      "versionName": "1.0",
-      "developer": "PEROVX",
-      "category": "Games",
-      "description": "Open-world night racing.",
-      "icon": "icons/carracer.png",
-      "apk": "https://github.com/Perovx95/Getapps/releases/download/com.perovx.carracer-1.0/carracer.apk",
-      "sha256": "",
-      "size": 0,
-      "rating": "",
-      "featured": true,
-      "screenshots": [],
-      "tags": [],
-      "changelog": ""
-    },
-    {
       "package": "com.perovx.gallery",
       "category": "Photo",
       "featured": false,
