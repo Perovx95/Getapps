@@ -31,7 +31,7 @@
       "name": "Aura",
       "versionCode": 3,
       "versionName": "3.0.0-debug",
-      "apk": "https://github.com/Perovx95/Getapps/releases/download/com.aura.assistant.debug-3.0.0-debug/aura-debug_%281%29.apk",
+      "apk": "https://github.com/Perovx95/Getapps/releases/download/com.aura.assistant.debug-3.0.0-debug/debug-3.0.0-debug.apk",
       "sha256": "009ae1d8d5f8c4fbcc504461a60bbcfa1788e08f6f263b9879c3300348b202e6",
       "size": 15763653,
       "icon": "icons/debug.png"
