@@ -17,6 +17,24 @@
       "sha256": "a5620be47fd8db1dc93676ba270aab60fc37de4cebc749952549d5b7151b9c74",
       "size": 86598,
       "icon": ""
+    },
+    {
+      "package": "com.aura.assistant.debug",
+      "category": "Tools",
+      "featured": false,
+      "screenshots": [],
+      "tags": [],
+      "description": "Your AI assistant",
+      "developer": "PEROVX",
+      "rating": "",
+      "changelog": "",
+      "name": "Aura",
+      "versionCode": 3,
+      "versionName": "3.0.0-debug",
+      "apk": "https://github.com/Perovx95/Getapps/releases/download/com.aura.assistant.debug-3.0.0-debug/aura-debug_%281%29.apk",
+      "sha256": "009ae1d8d5f8c4fbcc504461a60bbcfa1788e08f6f263b9879c3300348b202e6",
+      "size": 15763653,
+      "icon": ""
     }
   ]
 }
