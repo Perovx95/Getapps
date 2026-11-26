@@ -16,7 +16,7 @@
       "apk": "https://github.com/Perovx95/Getapps/releases/download/com.perovx.gallery-1.0.0/PerovxGallery.apk",
       "sha256": "a5620be47fd8db1dc93676ba270aab60fc37de4cebc749952549d5b7151b9c74",
       "size": 86598,
-      "icon": ""
+      "icon": "icons/gallery.png"
     },
     {
       "package": "com.aura.assistant.debug",
